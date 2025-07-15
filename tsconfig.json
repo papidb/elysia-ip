@@ -3,6 +3,7 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "target": "ES2021",
+    "types": ["bun"],
     "removeComments": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
